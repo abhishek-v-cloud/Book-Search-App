@@ -1,21 +1,21 @@
-# 📚 Open Library Book Search
+# Open Library Book Search
 
 A simple React app to search books using the **Open Library Search API**.  
 Users can enter a book title, fetch results, and see details like title, author, year, and cover image.
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 🔎 Search books by title (using Open Library API)  
-- 📖 Display book details:
+- Search books by title (using Open Library API)  
+- Display book details:
   - Title
   - Authors
   - First published year
   - Cover image (if available)
-- ⚡ Loading & error handling
-- 🎨 Responsive design with clean CSS
-- 🔄 Modular components (`BookStore`, `BookCard`)
+- Loading & error handling
+- Responsive design with clean CSS
+- Modular components (`BookStore`, `BookCard`)
 
 ---
 
@@ -28,4 +28,5 @@ Users can enter a book title, fetch results, and see details like title, author,
 ---
 
 ## 📂 Project Structure
+<img width="478" height="196" alt="image" src="https://github.com/user-attachments/assets/75a0eae8-0ae4-4997-bc99-d5fd9c1d6d9f" />
 
